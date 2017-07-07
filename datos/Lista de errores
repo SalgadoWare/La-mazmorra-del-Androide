@@ -1,0 +1,8 @@
+1)Si ejecuto sin haber creado el xml a mano me lanza excepciones
+Si ejecuto con el xml creado me lanza excepciones
+Tengo que crear el xml y el elemento inicial clasificaciones para que no lance
+
+2)hay que actualizar el javadoc porque hemos cambiado los parámetros y comentar todo el codigo
+
+4) leer nodos por id xml
+
