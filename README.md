@@ -1,1 +1,1 @@
-# La-mazmorra-del-Androide
+Software de gestión. Proyecto final de nuestro grupo de 6 programadores en Ingeniería del Software. Utilizamos arquitectura multicapa, diseño MVC y los patrones; Dao, Servicios de aplicación, Transfers, Factorías. Las GUI están implementadas con swing y Netbeans# La-mazmorra-del-Androide
